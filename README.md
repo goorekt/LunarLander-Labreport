@@ -1,6 +1,6 @@
 # LunarLander-Labreport
 
-The solution is in the LunarLanderAI.py file.
+The solution is in the AI_LunarLander.py file.
 
 The measured data from the AI is documented in the fuel_data.csv file.
 
